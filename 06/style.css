@@ -21,32 +21,32 @@ img{
 }
 h1{
 	text-align: center;
-	color: #ffffff;
+	color: black;
 	font-size:50px;
 }
 h2{
 	font-size: 40px;
 	margin-top: 20px;
-	color: #ffffff;
+	color: black;
 	text-align: center;
 }
 h3{ 
 	front-size: 30px;
 	text-align: center;
 	margin-top: 20px;
-	color: #ffffff;
+	color: black;
 }
 p{
 	font-size: 20px;
 	text-align: center;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	color: ;
+	color: black;
 	background: #738b2a;
 	margin-top: 10px;
 }
 p{
-	color: white;
+	color: black;
 	font-size: 20px;
 }
 .poem{
